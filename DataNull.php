@@ -7,7 +7,7 @@
  echo $name;
  echo "\n";
 
- echo "Age : ";
+ echo "Umur : ";
  echo $age;
  echo  "\n";
 
